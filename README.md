@@ -27,5 +27,8 @@ print("Bilangan terbear adalah : ", terbesar)       <br>
     Maksud dari sintaks ini adalah jika user memasukan angka 0 maka program akan berhenti lalu mengeluarkan angka       <br>
     terbesarnya dengan sintaks <br>
     print("Bilangan terbesar adalah :", terbesar)   <br>
+<br>
+<br>
+Hasilnya seperti berikut: <br>
+![img](input.png)
 
-    
