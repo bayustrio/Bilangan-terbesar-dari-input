@@ -30,5 +30,6 @@ print("Bilangan terbear adalah : ", terbesar)       <br>
 <br>
 <br>
 Hasilnya seperti berikut: <br>
-![img](input.png)
+
+![input](https://user-images.githubusercontent.com/78141279/141703300-4ca2544b-c599-43fa-b9ca-2d0e0ae5d752.png)
 
